@@ -1,0 +1,288 @@
+[
+    {
+        "name":"Mark Hughes",
+        "joining":"06/08/2019",
+        "title":"CEO",
+        "salary":[
+            {
+                "amount": "162011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Management",
+        "manager":"Mark",
+        "address": "102, The Maple",
+        "avatars": [{
+            "public_id": "employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626447528/employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck.jpg"
+        }],
+        "comments":[]
+    },
+
+    {
+        "name":"Dave Martin",
+        "joining":"06/09/2019",
+        "title":"Co-Founder",
+        "salary":[
+            {
+                "amount": "162011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Operations",
+        "manager":"Mark",
+        "address": "202, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693218_qorj6u",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693218_qorj6u.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Hugh Allen",
+        "joining":"06/05/2021",
+        "title":"Head of Product",
+        "salary":[
+            {
+                "amount": "156011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Product",
+        "manager":"Mark",
+        "address": "302, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693209_uao3y9",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693209_uao3y9.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Dan Hobbs",
+        "joining":"06/01/2021",
+        "title":"Software Engineer",
+        "salary":[
+            {
+                "amount": "62011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Engineering",
+        "manager":"Hugh Allen",
+        "address": "402, The Maple",
+        "avatars": [{
+            "public_id": "employees/male-avatar-profile-picture-vector-10210618_qziyxt",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626448162/employees/male-avatar-profile-picture-vector-10210618_qziyxt.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Don Bosco",
+        "joining":"07/04/2020",
+        "title":"Sales Development Representative",
+        "salary":[
+            {
+                "amount": "52011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Sales",
+        "manager":"Dave Martin",
+        "address": "502, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693218_qorj6u",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693218_qorj6u.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Richard Greene",
+        "joining":"11/05/2020",
+        "title":"Business Development Representative",
+        "salary":[
+            {
+                "amount": "52078",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Customer Success",
+        "manager":"Ian Guerin",
+        "address": "602, The Maple",
+        "avatars": [{
+            "public_id": "employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626447528/employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Aoife Mahon",
+        "joining":"12/09/2019",
+        "title":"Head of Partnerships",
+        "salary":[
+            {
+                "amount": "152895",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Marketing",
+        "manager":"Mark",
+        "address": "702, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693201_upi6jn",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693201_upi6jn.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Phoebe Buffet",
+        "joining":"10/10/2019",
+        "title":"Consultant",
+        "salary":[
+            {
+                "amount": "156011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Management",
+        "manager":"Mark",
+        "address": "802, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693214_u93kfk",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693214_u93kfk.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Katie Taylor",
+        "joining":"06/08/2020",
+        "title":"Software Developer",
+        "salary":[
+            {
+                "amount": "72011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Design",
+        "manager":"Matthew Brennan",
+        "address": "902, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693235_d8qe88",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693235_d8qe88.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Mark Ponting",
+        "joining":"06/04/2020",
+        "title":"Recruiter - Engineering",
+        "salary":[
+            {
+                "amount": "82011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Human Resources",
+        "manager":"Dave Martin",
+        "address": "103, The Maple",
+        "avatars": [{
+            "public_id": "employees/male-avatar-profile-picture-vector-10210618_qziyxt",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626448162/employees/male-avatar-profile-picture-vector-10210618_qziyxt.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Ross Geller",
+        "joining":"08/01/2020",
+        "title":"Marketing Advisor",
+        "salary":[
+            {
+                "amount": "56286",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Marketing",
+        "manager":"Ian Guerin",
+        "address": "203, The Maple",
+        "avatars": [{
+            "public_id": "employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626447528/employees/front-face-portrait-avatar-office-employee-in-vector-3212413_esdpck.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Rachel Greene",
+        "joining":"06/02/2021",
+        "title":"Machine Learning Engineer",
+        "salary":[
+            {
+                "amount": "72011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Engineering",
+        "manager":"Hugh Allen",
+        "address": "303, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693223_mygvob",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693223_mygvob.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Monica Geller",
+        "joining":"06/06/2020",
+        "title":"UI/UX Developer",
+        "salary":[
+            {
+                "amount": "73011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Management",
+        "manager":"Hugh Allen",
+        "address": "403, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693201_upi6jn",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693201_upi6jn.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Chandler Bing",
+        "joining":"09/09/2020",
+        "title":"Lead Software Developer",
+        "salary":[
+            {
+                "amount": "122011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Engineering",
+        "manager":"Mark Hughes",
+        "address": "503, The Maple",
+        "avatars": [{
+            "public_id": "employees/male-avatar-profile-picture-vector-10210618_qziyxt",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626448162/employees/male-avatar-profile-picture-vector-10210618_qziyxt.jpg"
+        }],
+        "comments":[]
+    },
+    {
+        "name":"Inchara",
+        "joining":"09/09/2020",
+        "title":"Software Developer",
+        "salary":[
+            {
+                "amount": "62011",
+                "payment": "Annual"
+            }
+        ],
+        "department":"Engineering",
+        "manager":"Mark Hughes",
+        "address": "903, The Maple",
+        "avatars": [{
+            "public_id": "employees/user-sign-icon-person-symbol-human-avatar-vector-12693223_mygvob",
+            "url": "https://res.cloudinary.com/gradplus/image/upload/v1626441807/employees/user-sign-icon-person-symbol-human-avatar-vector-12693223_mygvob.jpg"
+        }],
+        "comments":[]
+    }
+]
